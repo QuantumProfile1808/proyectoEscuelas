@@ -1,0 +1,3 @@
+realizar un buscador, arriba de la tabla para filtrar por cada alumno
+cambiar la tabla y agregar cosas en el index
+agregar cosas del anterior codigo para ver todas las notas de todos los almnos
