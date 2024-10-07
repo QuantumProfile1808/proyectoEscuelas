@@ -61,6 +61,3 @@ header("Location: index.html");
 exit();
 ?>
 
-
-<?php
-header("Location: mostrar_estudiantes.php");
