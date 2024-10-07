@@ -57,7 +57,7 @@ if ($conn_init->query($sql) === TRUE) {
 $conn_init->close();
 
 // Redireccionar a mostrar_estudiantes.php
-header("Location: mostrar_estudiantes.php");
+header("Location: index.html");
 exit();
 ?>
 
